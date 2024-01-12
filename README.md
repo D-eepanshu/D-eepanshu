@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-eepanshu
 - 👀 I’m interested in ...improving my skiils
-- 🌱 I’m currently learning ...web devlopment
-- 💞️ I’m looking to collaborate on ...anything related to web devlopment
+- 🌱 I’m currently learning ...Data science
+- 💞️ I’m looking to collaborate on ...anything related to AI
 - 📫 How to reach me ...mail me on keshrideepanshu53@gmail.com
 
 <!---
