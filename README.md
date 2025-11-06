@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @D-eepanshu
-- 👀 I’m interested in ...improving my skiils
-- 🌱 I’m currently learning ...Data science
-- 💞️ I’m looking to collaborate on ...anything related to AI
-- 📫 How to reach me ...mail me on keshrideepanshu53@gmail.com
+# 👋 Hi, I'm Deepanshu Kumar  
+**AI & Data Science | Software Engineer | Problem Solver**
 
-<!---
-D-eepanshu/D-eepanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I love building intelligent and data-driven solutions using code & creativity.  
+💡 Skilled in **C++, Java, Python, SQL, TensorFlow, OpenCV, scikit-learn, Power BI**.  
+🧠 Strong in **DSA, OOP, Machine Learning, NLP, and System Design basics**.  
+🎯 Projects: 
+•  [VANI Voice Assistant](https://github.com/D-eepanshu/VANI-Voice-assistant) 
+• [TrieSense](https://github.com/D-eepanshu/TrieSense-Smart-Sentence-Predictor)
+• [Sign Language Recognition](https://github.com/D-eepanshu/Sign-Language-Preprocessing)  
+
+🌱 Currently exploring **Generative AI & Applied Deep Learning**.  
+🤝 Open to collaborations in **AI, ML, and Data Science projects**.  
+
+📫 [keshrideepanshu53@gmail.com](mailto:keshrideepanshu53@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/deepanshu-kumar-7368b1214)
+• [GitHub](https://github.com/D-eepanshu)
