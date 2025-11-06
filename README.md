@@ -15,3 +15,13 @@
 📫 [keshrideepanshu53@gmail.com](mailto:keshrideepanshu53@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/deepanshu-kumar-7368b1214)
 • [GitHub](https://github.com/D-eepanshu)
+
+## 🏆 Achievements
+
+- 🥇 **Google Cloud Skills Boost – Generative AI**
+- 📊 **Data Science Certification – Internshala**
+- 🤖 **AI & ML Training – Ardent Computech Pvt. Ltd.**
+- 📈 **Data Analytics – Anudip Foundation**
+- 💻 Solved **500+ DSA problems** across platforms (LeetCode, GFG, CodeStudio)
+- 🚀 Developed 4+ real-world projects in **AI, NLP, and Data Visualization**
+
