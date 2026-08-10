@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Deepanshu Kumar — AI, Data, and Software</title>
+  <desc id="desc">A dark navy technology banner with cyan and violet accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d1a" />
+      <stop offset="52%" stop-color="#111c39" />
+      <stop offset="100%" stop-color="#090d1a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#56d4dd" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#b8c7ff" stroke-opacity=".08" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#background)" />
+  <rect width="1200" height="320" rx="20" fill="url(#grid)" />
+  <circle cx="1060" cy="58" r="154" fill="#56d4dd" opacity=".08" filter="url(#glow)" />
+  <circle cx="1110" cy="274" r="174" fill="#a78bfa" opacity=".08" filter="url(#glow)" />
+  <path d="M704 28C812 87 864 47 960 102s143 40 216-31" fill="none" stroke="url(#accent)" stroke-opacity=".38" stroke-width="2" />
+  <path d="M720 286c88-50 148-47 220-5s141 46 234-42" fill="none" stroke="url(#accent)" stroke-opacity=".32" stroke-width="2" />
+
+  <g transform="translate(64 60)">
+    <rect width="54" height="54" rx="14" fill="url(#accent)" />
+    <path d="M17 18 9 27l8 9M37 18l8 9-8 9M31 14l-8 26" fill="none" stroke="#090d1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" />
+    <text x="76" y="18" fill="#9fb2d9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">DEEPANSHU KUMAR</text>
+    <text x="76" y="59" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing=".4">AI · DATA · SOFTWARE</text>
+    <rect x="76" y="78" width="268" height="3" rx="1.5" fill="url(#accent)" />
+    <text x="76" y="110" fill="#b5c5e9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".7">BUILDING INTELLIGENT PRODUCTS WITH PURPOSE</text>
+  </g>
+
+  <g transform="translate(64 218)">
+    <rect width="144" height="42" rx="10" fill="#142342" stroke="#56d4dd" stroke-opacity=".28" />
+    <text x="72" y="26" fill="#78e1e8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.4">AI / ML</text>
+    <rect x="158" width="144" height="42" rx="10" fill="#142342" stroke="#a78bfa" stroke-opacity=".28" />
+    <text x="230" y="26" fill="#c9bbff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.4">ANALYTICS</text>
+    <rect x="316" width="164" height="42" rx="10" fill="#142342" stroke="#56d4dd" stroke-opacity=".28" />
+    <text x="398" y="26" fill="#78e1e8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.4">ENGINEERING</text>
+  </g>
+
+  <g transform="translate(936 106)">
+    <rect width="178" height="102" rx="18" fill="#101b35" stroke="#b8c7ff" stroke-opacity=".2" />
+    <circle cx="36" cy="34" r="7" fill="#56d4dd" />
+    <rect x="56" y="28" width="77" height="8" rx="4" fill="#e7efff" opacity=".9" />
+    <rect x="28" y="57" width="122" height="7" rx="3.5" fill="#8ba0ca" opacity=".8" />
+    <rect x="28" y="75" width="92" height="7" rx="3.5" fill="#8ba0ca" opacity=".48" />
+    <path d="m28 91 25-18 20 10 31-32 43 21" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" />
+  </g>
+</svg>
